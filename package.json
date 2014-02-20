@@ -1,0 +1,13 @@
+{
+  "name": "web-audio-components-comb",
+  "description": "A lowpass comb filter effect module for the Web Audio API.",
+  "version": "0.0.5",
+  "keywords": [
+    "web-audio",
+    "filter",
+    "comb",
+    "feedback"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
